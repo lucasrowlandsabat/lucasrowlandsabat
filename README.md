@@ -1,5 +1,15 @@
 # Olá me chamo Lucas Rowlands Abat!
-<div class="tenor-gif-embed" data-postid="9811803164280522639" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/bills-ugh-gif-9811803164280522639">Bills Ugh GIF</a>from <a href="https://tenor.com/search/bills+ugh-gifs">Bills Ugh GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
 <div>
 <a href="https://github.com/lucasrowlandsabat">
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrowlandsabat&layout=compact&langs_count=7&theme=dracula"/>
