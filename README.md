@@ -1,4 +1,5 @@
 # Olá me chamo Lucas Rowlands Abat!
+![Snake animation](https://github.com/lucasrowlandsabat/lucasrowlandsabat/blob/output/github-contribution-grid-snake.svg)
 
 <div>
 <a href="https://github.com/lucasrowlandsabat">
