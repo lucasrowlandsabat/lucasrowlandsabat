@@ -3,7 +3,9 @@
 Sou Lucas, estudante do 2º ano de Engenharia de Software na FIAP, apaixonado por tecnologia e pelo impacto que ela pode gerar no dia a dia das pessoas.
 
 💡 Tenho facilidade em lógica, usabilidade e design responsivo, sempre buscando unir boas práticas com soluções criativas e foco na experiência do usuário.
+
 🚀 Principais habilidades: React, Node.js, TypeScript, JavaScript, Python, HTML, CSS e Git.
+
 📚 Em desenvolvimento: Java, Spring Boot, SQL e PHP.
 
 ## Tecnologias e Ferramentas  
