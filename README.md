@@ -1,12 +1,16 @@
 # Olá, me chamo Lucas Rowlands Abat!
 
-Sou Lucas, estudante do 2º ano de Engenharia de Software na FIAP, apaixonado por tecnologia e pelo impacto que ela pode gerar no dia a dia das pessoas.
+Olá! Sou Lucas, estudante do 2º ano de Engenharia de Software na FIAP e atualmente estagiário na Plataforma ON da FIAP, apaixonado por tecnologia, inovação e pelo impacto que ela pode gerar no dia a dia das pessoas.
 
-💡 Tenho facilidade em lógica, usabilidade e design responsivo, sempre buscando unir boas práticas com soluções criativas e foco na experiência do usuário.
+🤖 Tenho interesse em Inteligência Artificial e em como aplicá-la no desenvolvimento de soluções inteligentes, otimizando processos, criando novas experiências e resolvendo problemas reais.
 
-🚀 Principais habilidades: React, Node.js, TypeScript, JavaScript, Python, HTML, CSS e Git.
+🚀 Principais habilidades: React, Node.js, TypeScript, JavaScript, Python e SQL.
 
-📚 Em desenvolvimento: Java, Spring Boot, SQL e PHP.
+📚 Em desenvolvimento: IA, Machine Learning, Java e Spring Boot.
+
+🔎 Sou movido por curiosidade, desafios e aprendizado contínuo, buscando evoluir constantemente minhas habilidades em desenvolvimento de software, IA e inovação para contribuir com projetos que gerem impacto.
+
+🤝 Aberto a conexões, novas oportunidades de aprendizado e trocas sobre tecnologia, desenvolvimento, inteligência artificial e inovação.
 
 ## Tecnologias e Ferramentas  
 <div align="left">
